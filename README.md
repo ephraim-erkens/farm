@@ -1,0 +1,2 @@
+- `neural_networks.py` contains functions to build, train and evaluate a Feedforward Neural Network
+- `FNN_nestedCV.ipynb` was used to select compounds and features, to format the model input data and to perform a nested cross-validation using the functions provided in `neural_networks.py`
