@@ -51,13 +51,13 @@ The tables have the following columns. Each row represents one groundwater measu
 
 - conc_group: concentration class of metabolites (1,2)
 - filter_ok_unter_gok: well screen depth in m below surface
--   HA: cavity type of aquifer (P : porous, K/Ka: fractured/karstic, K: fractured, P/K: porous/fractured)
--   kf_bez: aquifer hydraulic conductivity class (1,2,3)
--   gwn_mean: mean annual groundwater recharge rate in mm
--   sand_depth_weighted_mean: soil sand content (averaged over 1 m soil depth) in %
--   corg_gehalt_depth_weighted_mean: soil organic carbon content (averaged over 1 m soil depth) in %
--   Makroporen_rounded: macropore classes (1,2,3)
--   area_sentinel_id_XX : area in m² of crop type, “XX” as specified in the following table:
+- HA: cavity type of aquifer (P : porous, K/Ka: fractured/karstic, K: fractured, P/K: porous/fractured)
+- kf_bez: aquifer hydraulic conductivity class (1,2,3)
+- gwn_mean: mean annual groundwater recharge rate in mm
+- sand_depth_weighted_mean: soil sand content (averaged over 1 m soil depth) in %
+- corg_gehalt_depth_weighted_mean: soil organic carbon content (averaged over 1 m soil depth) in %
+- Makroporen_rounded: macropore classes (1,2,3)
+- area_sentinel_id_XX : area in m² of crop type, “XX” as specified in the following table:
 
 | Crop Class                                               | Kultur Sentinel ID   |
 | -------------------------------------------------------- | -------------------- |
